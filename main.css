@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    font-weight:bold;
+    font-size:55px;
+}
+
+.container h2 {
+	border-bottom:1px solid #dbdbdb;
+}
+
+.intro h5 {
+    display:inline;
+    font-size:18px;
+    padding-right:35px;
+    padding-bottom:35px;
+}
+
+p {
+    font-size:25px;
+}
