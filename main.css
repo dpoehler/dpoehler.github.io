@@ -1,20 +1,43 @@
+
+
 h1 {
     text-align: center;
     font-weight:bold;
-    font-size:55px;
+    font-size:50px;
+    background-color: #E0EFF1;
+    padding: 14px;
+    border-radius: 19px;
+}
+
+.container {
+	background-color: #D9D9D9;
+	padding-top: 8px;
+	border-radius: 2px;
 }
 
 .container h2 {
-	border-bottom:1px solid #dbdbdb;
+	border-bottom:1px solid #7DB4B5;
+	background-color: #E0EFF1;
+	padding: 12px;
+	border-radius: 18px;
 }
 
 .intro h5 {
     display:inline;
-    font-size:18px;
+    font-size:21px;
     padding-right:35px;
     padding-bottom:35px;
+    padding-left: 2px;
 }
 
 p {
     font-size:25px;
+}
+
+.color {
+	background-color: #D4838F;
+}
+
+html {
+	background-color: #D4838F;
 }
